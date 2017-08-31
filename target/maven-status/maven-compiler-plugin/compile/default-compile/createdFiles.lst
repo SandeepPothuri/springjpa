@@ -1,0 +1,6 @@
+com\unnab\jpa2\config\BeanConfig.class
+com\unnab\jpa2\entity\Employee.class
+com\unnab\jpa2\dao\impl\EmployeeDAOImpl.class
+com\unnab\jpa2\config\Application.class
+com\unnab\jpa2\dao\EmployeeDAO.class
+com\unnab\jpa2\entity\Department.class
